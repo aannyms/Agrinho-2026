@@ -1,3 +1,3 @@
-function mostrarMensagem() {
-  alert("Bem-vindo ao Agro Sustentável 🌱");
+function clicou() {
+    alert("Entraremos em contato com você 🌱💚");
 }
